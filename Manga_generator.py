@@ -7,7 +7,7 @@ from PIL import Image
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "AIzaSyDLaAEZQUPogis2O3uz0Ay2z83-O32IWcU"
+openai.api_key = "API key"
 
 # Load text generation model (GPT-4) for scriptwriting
 def generate_manga_script(prompt):
